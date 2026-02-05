@@ -1,0 +1,21 @@
+# Terms of Service for Questor
+
+Welcome to Questor. By using our services, you agree to the following terms:
+
+## 1. Acceptable Use
+You agree not to use Questor for any illegal purposes or to violate Discord's Terms of Service. This includes, but is not limited to, self-botting in a way that risks account termination or engaging in harassment.
+
+## 2. No Warranty
+This software is provided "as is," without warranty of any kind, express or implied. We do not guarantee that the bot will be available at all times or that it will be free of bugs or errors.
+
+## 3. Limitation of Liability
+The developers of Questor shall not be held responsible for any damages, including account bans, loss of data, or other issues arising from the use of this bot. You use Questor at your own risk.
+
+## 4. Account Responsibility
+You are solely responsible for the security of your Discord account and any tokens you provide to the bot. We recommend using the provided extraction scripts safely and never sharing your tokens with others.
+
+## 5. Changes to Terms
+We reserve the right to modify these terms at any time. Continued use of the bot after changes are posted constitutes your acceptance of the new terms.
+
+## 6. Contact
+If you have questions regarding these terms, please contact us via our support server: https://discord.gg/questor
