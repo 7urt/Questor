@@ -1,0 +1,34 @@
+# Privacy Policy for Questor
+
+Your privacy is important to us. This policy explains how we collect, use, and protect your information.
+
+## 1. Data Collection
+We collect the following data to provide our services:
+- **Discord User IDs**: To identify your account and link configurations.
+- **Discord Tokens**: Only if you link your account for quest automation.
+- **Bot Usage Data**: Basic logs to monitor performance and fix bugs.
+
+## 2. Data Usage
+The collected data is used exclusively for:
+- Automating Discord Quests.
+- Managing HypeSquad badges and booster perks.
+- Providing notifications for new quests.
+We do **not** sell or share your data with third parties for marketing purposes.
+
+## 3. Data Protection
+We implement industry-standard security measures to protect your stored tokens and personal information. Data is stored in a secure MongoDB Atlas cluster.
+
+## 4. User Rights
+You have the right to:
+- View the data we have stored about you.
+- Request the deletion of your data at any time using the provided bot commands (e.g., `,unlink`).
+- Stop using the service and revoke your token's access.
+
+## 5. Third-Party Services
+Questor interacts with the Discord API. Your use of Discord is subject to Discord's own Privacy Policy and Terms of Service.
+
+## 6. Updates to Policy
+We may update this privacy policy from time to time. We will notify users of significant changes via our support server or bot announcements.
+
+## 7. Contact Information
+For any privacy-related concerns, please visit our support server: https://discord.gg/questor
